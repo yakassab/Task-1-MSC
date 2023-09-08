@@ -2,7 +2,7 @@
 
 NOTE!!! Must Extract File Before Running in web browser.
 
-This is a simple HTML only project that has three pages: home, about, and contact.
+This is a simple HTML only project that has three pages: home, about and contact.
 
 GITHUB REPOSITORY LINK: https://github.com/yakassab/Task-1-MSC.git
 
